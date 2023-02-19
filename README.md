@@ -1,4 +1,4 @@
-# RblxWild-Bloxflip-Predictor
+# RblxWild-Bloxflip-Predictor Open Source SO ya check code if you want bla bla blah
 pip install tkinter
 pip install webbrowser
 pip install random
