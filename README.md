@@ -4,7 +4,7 @@
 Round id is for bloxflip but use server seed hash for rblxwild.com
 
 ⭐ Using  ai trained games it comes up with a prediction from over 2863 games of trial and error.⭐
-
+Entering wrong round id will cuase a error most predictors do not do this.
 
 
 A predictor for rblxwild/bloxflip 
