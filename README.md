@@ -1,6 +1,6 @@
 # RblxWild-Bloxflip-Predictor
 
-#By Soleous Aka Me .-.
+**By Soleous Aka Me .-.
 A predictor for rblxwild/bloxflip 
 ![image](https://user-images.githubusercontent.com/101955099/219939504-ef8026df-6836-40c2-98ea-7f7dd2335e17.png)
 ![image](https://user-images.githubusercontent.com/101955099/219939516-b7601cc7-5f93-4c45-93a9-e95e5b69424e.png)
