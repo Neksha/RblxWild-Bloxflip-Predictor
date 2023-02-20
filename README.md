@@ -1,4 +1,5 @@
-# RblxWild-Bloxflip-Predictor Open Source check code if you want :D
+# RblxWild-Bloxflip-Predictor Open Source check code if you want :D NOT A VIRUS 🦠 Windows will block it becuase it is an unkown application
+it will not ssay threats detected just unkown meaning they dont reognize it 
 pip install tkinter
 pip install webbrowser
 pip install random
