@@ -3,6 +3,13 @@ pip install tkinter
 pip install webbrowser
 pip install random
 
+find the exe
+![image](https://user-images.githubusercontent.com/101955099/220041437-f4ca1cc3-e874-45e2-8751-73209e1d42e1.png)
+here
+
+
+
+
 Type in cmd to download required imports to make the file work
 **By Soleous Aka Me .-.**
 Round id is for bloxflip but use server seed hash for rblxwild.com
