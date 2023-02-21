@@ -1,6 +1,6 @@
 # RblxWild-Bloxflip-Predictor Open Source check code if you want :D NOT A VIRUS 🦠 Windows will block it becuase it is an unkown 2 MINES ONLY 4 clicks
 
-THIS PREDICTOR WON 11/12 GAMES lol using 2 mines 4 clicks  6.79x is the proof
+THIS PREDICTOR WON 11/12 GAMES lol using 2 mines 4 clicks  
 ![Screenshot 2023-02-21 175203](https://user-images.githubusercontent.com/101955099/220271465-89621e8d-16fb-477a-99fb-800198bf2f31.png)
 ![Screenshot 2023-02-21 175014](https://user-images.githubusercontent.com/101955099/220271478-154417d9-9675-43ea-8d55-3b37171d52a7.png)
 ![Screenshot 2023-02-21 174420](https://user-images.githubusercontent.com/101955099/220271488-9229e098-19d7-43cc-9193-7983773549cd.png)
