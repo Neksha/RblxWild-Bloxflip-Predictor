@@ -1,4 +1,9 @@
 # RblxWild-Bloxflip-Predictor Open Source check code if you want :D NOT A VIRUS 🦠 Windows will block it becuase it is an unkown 2 MINES ONLY 4 clicks
+Note this isnt a  predictor predictor this is just what the ai thinks "safe spots" are 
+
+
+
+
 
 THIS PREDICTOR WON 11/12 GAMES lol using 2 mines 4 clicks  
 ![Screenshot 2023-02-21 175203](https://user-images.githubusercontent.com/101955099/220271465-89621e8d-16fb-477a-99fb-800198bf2f31.png)
