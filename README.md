@@ -1,5 +1,4 @@
-# RblxWild-Bloxflip-Predictor Open Source check code if you want :D NOT A VIRUS 🦠 Windows will block it becuase it is an unkown application
-it will not ssay threats detected just unkown meaning they dont reognize it 
+# RblxWild-Bloxflip-Predictor Open Source check code if you want :D NOT A VIRUS 🦠 Windows will block it becuase it is an unkown 2 MINES ONLY 4 clicks
 
 
 
