@@ -27,7 +27,7 @@ here
 
 
 
-Type in cmd to download required imports to make the file work
+
 **By Soleous Aka Me .-.**
 Round id is for bloxflip but use server seed hash for rblxwild.com
 
